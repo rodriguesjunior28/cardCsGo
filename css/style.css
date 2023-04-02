@@ -183,7 +183,7 @@ h1 {
   filter: grayscale(100%);
 }
 
-.selected{
+.selected {
   border: 6px solid #E22859;
   cursor: not-allowed;  /* não dá pra comentar */
   /* overflow: hidden; */
